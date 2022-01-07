@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/KUQ5oEA.gif"/>
+<img src="https://i.imgur.com/6Tzl2dJ.gif"/>
 <div class="main">
   <a href="https://github.com/dionisiofernandes">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=dionisiofernandes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
