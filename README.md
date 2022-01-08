@@ -13,3 +13,11 @@
 - 🌱 I’m currently learning JavaScript, React.js and Node.js
 
 ![](https://komarev.com/ghpvc/?username=dionisiofernandes&color=green)
+
+  
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+  
+  
+  https://dionisiofernandes.tumblr.com/rss
