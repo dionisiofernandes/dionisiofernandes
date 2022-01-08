@@ -10,11 +10,8 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://lukelowrey.com/rss/
+          feed-url: https://dionisiofernandes.tumblr.com/rss
           readme-section: feed
           template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
 
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://dionisiofernandes.tumblr.com/rss
-          readme-section: notes
+     
