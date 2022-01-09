@@ -15,9 +15,5 @@
 ![](https://komarev.com/ghpvc/?username=dionisiofernandes&color=green)
 
   
-### 📙 Blog Posts
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
-  
   
 
