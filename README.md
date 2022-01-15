@@ -21,10 +21,5 @@
 ### 📕 &nbsp;Latest Blog Posts
   
 <!-- BLOG:START -->
-- [MailSpring Dionisio Dark Theme](https://blog.dionisiofernandes.com/mailspring-dionisio-dark-theme)
-- [JSON - O que é e para que serve?](https://blog.dionisiofernandes.com/json-o-que-e-e-para-que-serve)
-- [RESTAPI com Node.js e SQL Server](https://blog.dionisiofernandes.com/restapi-com-nodejs-e-sql-server)
-- [Hello World!](https://blog.dionisiofernandes.com/hello-world)
-- [Cubo Leds - Jolycube](https://blog.dionisiofernandes.com/cubo-leds-jolycube)
 <!-- BLOG:END -->
 
