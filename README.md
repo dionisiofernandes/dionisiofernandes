@@ -14,7 +14,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dionisiofernandes&color=green)
 
-  -My Blog Posts
+ My Blog Posts
   
 <!-- BLOG:START -->
 <!-- BLOG:END -->
